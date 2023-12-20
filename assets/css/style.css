@@ -94,7 +94,6 @@ html,body{
   transition: opacity 0.3s 0.3s ease; 
   opacity: 0;
 }
-
 .fix{position: relative;clear: both;}
 /*=============Style css=========*/
 

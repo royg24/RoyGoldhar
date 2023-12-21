@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*==================================
 * Author        : "ThemeSine"
 * Template Name :  Browny  HTML Template
@@ -94,7 +95,6 @@ html,body{
   transition: opacity 0.3s 0.3s ease; 
   opacity: 0;
 }
-
 .fix{position: relative;clear: both;}
 /*=============Style css=========*/
 
@@ -192,7 +192,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4b9fea;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(https://github.com/royg24/RoyGoldhar.github.io/blob/continue-website/assets/images/about/welcome-banner.JPG?raw=true)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -730,6 +730,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     height:50px;
     text-transform:capitalize;
     margin-top: 3px;
+    width: 300px;
     background: #333ce3;
     border: 1px solid #333ce3;
     cursor:pointer;
@@ -756,8 +757,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #475ad7;
-    border: 1px solid #475ad7;
+    background: #90a3cd;
+    border: 1px solid #90a3cd;
+    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+}
+
+.single-contact-btn:active{
+    background: #16e7b6;
+    border: 1px solid #16e7b6;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
@@ -865,4 +872,3 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
-/*========================Thank you=================

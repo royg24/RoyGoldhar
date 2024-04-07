@@ -1,8 +1,9 @@
 -----------------------
 # README
 -----------------------
-Changed and Edited by Roy Goldhar based on Browny's work
-
+Browny is a one page bootstrap 3 based resume/portfolio template.
+Changed and Edited by Roy Goldhar based on Browny's work.
+This is Roy Goldhar's personl website
 
 Template Info:
 -----------------------

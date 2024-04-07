@@ -1,13 +1,14 @@
 -----------------------
 # README
 -----------------------
-Changed and Edited by Roy Goldhar based on Browny's work
-
+Browny is a one page bootstrap 3 based resume/portfolio template.
+Changed and Edited by Roy Goldhar based on Browny's work.
+This is Roy Goldhar's personl website
 
 Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
+Version: 	1.2
 Author: 	ThemeSINE
 Website: 	https://www.themesine.com/
 

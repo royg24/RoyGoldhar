@@ -8,7 +8,7 @@ This is Roy Goldhar's personl website
 Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
+Version: 	1.2
 Author: 	ThemeSINE
 Website: 	https://www.themesine.com/
 

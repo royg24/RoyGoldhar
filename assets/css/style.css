@@ -529,6 +529,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     content: url('https://api.iconify.design/simple-icons/codewars.svg');
 }
 
+.leetcode {
+    background: url('https://api.iconify.design/simple-icons/leetcode.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/simple-icons/leetcode.svg');
+}
+
+
 .profiles-content {padding-top: 100px;}
 .profiles-content .col-sm-3{padding:0;}
 .profile-txt {
